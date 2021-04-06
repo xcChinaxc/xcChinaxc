@@ -3,8 +3,8 @@
 </a>
 
 <p align="center">
-<a href="https://twitter.com/xcchinaxc" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/145/145812.svg?token=exp=1617737450~hmac=1288ed0b310562e73b4b1f031024b2e7" alt="xcchinaxc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/china-redman-dev" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1617737453~hmac=7356228e5a0e42496bff97b1fae3a3af" alt="china-redman-dev" height="30" width="40" /></a>
+<a href="https://twitter.com/xcchinaxc" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/145/145812.svg?token=exp=1617737450~hmac=1288ed0b310562e73b4b1f031024b2e7" alt="xcchinaxc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/china-redman-dev" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1617737453~hmac=7356228e5a0e42496bff97b1fae3a3af" alt="china-redman-dev" height="30" width="40" /></a>
 </p>
 
 <h2> Projects </h2>
