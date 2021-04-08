@@ -9,19 +9,19 @@
 
 <h2> Projects </h2>
 
-<h3> [Website for Georgia Library Associations' Black Caucus Interest Group](https://blackcaucusgla.preview.softr.io/?t=1617197530749)</h3>
+## [Website for Georgia Library Associations' Black Caucus Interest Group](https://blackcaucusgla.preview.softr.io/?t=1617197530749)
 <p> <strong> Tech Used: </strong> AirTable and Softr. <br /> <strong> Purpose: </strong> This website will be used to distribute newsletters, professional development opportunities, and other resources to BIPOC librarians and library paraprofessionals in Georgia. </p>
 <a target="_blank" href="https://blackcaucusgla.preview.softr.io/?t=1617197530749">
     <img src="images/glabcwebsite.jpg" width="75%" alt="https://blackcaucusgla.preview.softr.io/?t=1617197530749"/>
 </a>
 
-<h3> To Do App </h3>
+## To Do App
 <p> <strong> Tech Used </strong> HTML, CSS, JavaScript, Embedded JavaScript, Node.js, Express, MongoDB. <br /> <strong> Purpose </strong> A simple to-do app! Create, delete, and mark to-do items complete. </p>
 <a target="_blank" href="">
     <img src="images/todoapp.jpg" width="75%" alt=""/>
 </a>
 
-<h3> StoryBooks </h3>
+## StoryBooks
 <p> <strong> Tech Used </strong> HTML, CSS, JavaScript, Express, MongoDB, Mongoose, Passport, Google OAuth, Sessions, and Handlebars. <br /> <strong> Purpose </strong> StoryBooks is a web application that users can use to create public and private stories. <br /> <strong> Lessons Learned </strong> I followed this tutorial immediately after making a CRUD to-do app because I wanted to learn more. Through building this application, I learned the following:
 - how to incorporate Google OAuth into my to-do application
 - how to ensure authorization on routes
