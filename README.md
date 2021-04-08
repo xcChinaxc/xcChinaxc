@@ -23,9 +23,9 @@
 
 ### StoryBooks
 <p> <strong> Tech Used </strong> HTML, CSS, JavaScript, Express, MongoDB, Mongoose, Passport, Google OAuth, Sessions, and Handlebars. <br /> <strong> Purpose </strong> StoryBooks is a web application that users can use to create public and private stories. <br /> <strong> Lessons Learned </strong> I followed this tutorial immediately after making a CRUD to-do app because I wanted to learn more. Through building this application, I learned the following:
-- how to incorporate Google OAuth into my to-do application
-- how to ensure authorization on routes
-- how to make stories public and private
+<br /> - how to incorporate Google OAuth into my to-do application
+<br /> - how to ensure authorization on routes
+<br /> - how to make stories public and private
 </p>
 <a target="_blank" href="">
     <img src="images/storybooks.jpg" width="75%" alt=""/>
