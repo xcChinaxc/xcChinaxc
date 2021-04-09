@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/china-redman-dev" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1617737453~hmac=7356228e5a0e42496bff97b1fae3a3af" alt="china-redman-dev" height="30" width="40" /></a>
 </p>
 
-## Projects
+## Works In Progress
 
 ### [Website for Georgia Library Associations' Black Caucus Interest Group](https://blackcaucusgla.preview.softr.io/?t=1617197530749)
 <p> <strong> Tech Used: </strong> AirTable and Softr. <br /> <strong> Purpose: </strong> This website will be used to distribute newsletters, professional development opportunities, and other resources to BIPOC librarians and library paraprofessionals in Georgia. </p>
