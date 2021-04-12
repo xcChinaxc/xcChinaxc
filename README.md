@@ -15,10 +15,9 @@
     <img src="images/glabcwebsite.jpg" width="75%" alt="https://blackcaucusgla.preview.softr.io/?t=1617197530749"/>
 </a>
 
-### To Do App
-<p> <strong> Tech Used </strong> HTML, CSS, JavaScript, Embedded JavaScript, Node.js, Express, MongoDB. <br /> <strong> Purpose </strong> A simple to-do app! Create, delete, and mark to-do items complete. </p>
+### [To Do App](https://cr-to-do-app.herokuapp.com/)
+<p> <strong> Tech Used </strong> HTML, CSS, JavaScript, Embedded JavaScript, Node.js, Express, MongoDB. <br /> <strong> Purpose </strong> A simple to-do app! Use this application to create, mark complete, and delete to-do items. Check out the <a target="_blank" href="https://github.com/xcChinaxc/to-do-app">repo</a> and the <a target="_blank" href="https://cr-to-do-app.herokuapp.com/">demo site.</a> </p>
 
-Check out the <a target="_blank" href="https://github.com/xcChinaxc/to-do-app">repo</a> and the <a target="_blank" href="https://cr-to-do-app.herokuapp.com/">demo site</a> here!
 <a target="_blank" href="">
     <img src="images/todoapp.jpg" width="75%" alt="screenshot of the to-do app with random non-important tasks listed"/>
 </a>
