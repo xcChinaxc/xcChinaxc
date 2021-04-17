@@ -14,7 +14,7 @@
     <strong> Purpose: </strong> This website will be used to distribute newsletters, professional development opportunities, and other resources to BIPOC librarians and library paraprofessionals in Georgia. 
 </p>
 <a target="_blank" href="https://blackcaucusgla.preview.softr.io/?t=1617197530749">
-    <img src="images/glabcwebsite.jpg" width="75%" alt="https://blackcaucusgla.preview.softr.io/?t=1617197530749"/>
+    <img src="images/glabcwebsite.jpg" width="75%" alt="screenshot of BCGLA homepage"/>
 </a>
 
 ### [Lokuri Website](https://focused-heisenberg-9d8dca.netlify.app/)
@@ -25,7 +25,7 @@
 </p>
 
 <a target="_blank" href="">
-    <img src="images/lokuri.jpg" width="75%" alt="screenshot of the to-do app with random non-important tasks listed"/>
+    <img src="images/lokuri.jpg" width="75%" alt="screenshot of Lokuri homepage"/>
 </a>
 
 ### [To Do Application](https://cr-to-do-app.herokuapp.com/)
