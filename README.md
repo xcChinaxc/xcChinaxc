@@ -1,4 +1,4 @@
-<a target="_blank" href ="">
+<a target="_blank" href ="http://www.chinaredman.com/">
     <img src="images/header-engineer-mathematician.png">
 </a>
 
