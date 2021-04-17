@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-<a href="https://twitter.com/xcchinaxc" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/145/145812.svg?token=exp=1617737450~hmac=1288ed0b310562e73b4b1f031024b2e7" alt="xcchinaxc" height="30" width="40" /></a>
+<a href="https://twitter.com/xcchinaxc" target="_blank"><img align="center" src="https://www.flaticon.com/free-icon/twitter_145812?term=twitter&page=1&position=6&page=1&position=6&related_id=145812&origin=tag" alt="xcchinaxc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/china-redman-dev" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1617737453~hmac=7356228e5a0e42496bff97b1fae3a3af" alt="china-redman-dev" height="30" width="40" /></a>
 </p>
 
@@ -39,9 +39,9 @@
     <img src="images/todoapp.jpg" width="75%" alt="screenshot of the to-do app with random non-important tasks listed"/>
 </a>
 
-### StoryBooks
-<p> <strong> Tech Used </strong> HTML, CSS, JavaScript, Express, MongoDB, Mongoose, Passport, Google OAuth, Sessions, and Handlebars. <br /> 
-    <strong> Purpose </strong> StoryBooks is a web application that users can use to create public and private stories. <br />
+### [StoryBooks](https://github.com/xcChinaxc/storybooks)
+<p> <strong> Tech Used: </strong> HTML, CSS, JavaScript, Express, MongoDB, Mongoose, Passport, Google OAuth, Sessions, and Handlebars. <br /> 
+    <strong> Purpose: </strong> StoryBooks is a web application that users can use to create public and private stories. <br />
     <a target="_blank" href="https://github.com/xcChinaxc/storybooks">Repo</a>
 </p>
 <a target="_blank" href="">
