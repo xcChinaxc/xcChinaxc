@@ -14,7 +14,7 @@
     </a>
 <p>
 
-## Works In Progress
+## Projects
 <table>
     <tr>
         <td width="50%">
