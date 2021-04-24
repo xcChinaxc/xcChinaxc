@@ -31,23 +31,9 @@
             </a>
         </td>
         <td width="50%">
-            <h3>Lokuri Website</h3>
-            <p> 
-                <strong> Tech Used: </strong> HTML, CSS Grid, CSS Animation, and Flexbox. <br />
-                <strong> Purpose: </strong> Lorkui is a responsive website for software that will be used to deploy web applications of all kinds. <br />
-                <strong> Links: </strong>  <a target="_blank" href="https://github.com/xcChinaxc/lokuri-cr-responsive-website">Repo</a> // 
-                <a target="_blank" href="https://focused-heisenberg-9d8dca.netlify.app/">Demo Site</a> <br />
-            </p>
-            <a target="_blank" href="https://focused-heisenberg-9d8dca.netlify.app/">
-                <img src="images/lokuri.jpg" width="85%" alt="screenshot of Lokuri homepage"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%">
             <h3>To Do Application</h3>
             <p> 
-                <strong> Tech Used: </strong> HTML, CSS, JavaScript, Embedded JavaScript, Node.js, Express, MongoDB. <br />
+                <strong> Tech Used: </strong> HTML, CSS, JavaScript, Embedded JavaScript, Node.js, Express, and MongoDB. <br />
                 <strong> Purpose: </strong> Use this application to create, mark complete, and delete to-do items. <br />
                 <strong> Links: </strong>   <a target="_blank" href="https://github.com/xcChinaxc/to-do-app">Repo</a> // 
                 <a target="_blank" href="https://cr-to-do-app.herokuapp.com/">Demo Site</a> <br />
@@ -56,6 +42,8 @@
                 <img src="images/todoapp.jpg" width="75%" alt="screenshot of the to-do app with random non-important tasks listed"/>
             </a>
         </td>
+    </tr>
+    <tr>
         <td width="50%">
             <h3>StoryBooks App</h3>
             <p> 
@@ -65,6 +53,18 @@
             </p>
             <a target="_blank" href="https://github.com/xcChinaxc/storybooks">
                 <img src="images/storybooks.jpg" width="75%" alt="Screenshot of Storybooks homepage"/>
+            </a>
+        </td>
+         <td width="50%">
+            <h3>Lokuri Website</h3>
+            <p> 
+                <strong> Tech Used: </strong> HTML, CSS Grid, CSS Animation, and Flexbox. <br />
+                <strong> Purpose: </strong> Lorkui is a responsive website for "software" that will be used to deploy web applications of all kinds. <br />
+                <strong> Links: </strong>  <a target="_blank" href="https://github.com/xcChinaxc/lokuri-cr-responsive-website">Repo</a> // 
+                <a target="_blank" href="https://focused-heisenberg-9d8dca.netlify.app/">Demo Site</a> <br />
+            </p>
+            <a target="_blank" href="https://focused-heisenberg-9d8dca.netlify.app/">
+                <img src="images/lokuri.jpg" width="85%" alt="screenshot of Lokuri homepage"/>
             </a>
         </td>
     </tr>
