@@ -2,15 +2,17 @@
     <img src="images/header-engineer-mathematician.png">
 </a>
 
+
+## Connect with me
 <p align="center">
     <a target="_blank" href="http://www.chinaredman.com/">
-        <img src="https://t4.ftcdn.net/jpg/00/70/24/23/240_F_70242300_4a3XCaMUmGgrQxjRFFDrA4cQ4M0dzJVu.jpg" width="40px;" alt="Portfolio Site" />
+        <img src="https://img.shields.io/badge/portfolio-view-90ee90?style=for-the-badge" alt="Portfolio Site" />
     </a>
     <a target="_blank" href="https://twitter.com/xcChinaxc">
-        <img src="https://img.icons8.com/color/2x/twitter-circled.png" width="45px;"  alt="Twitter" />
+        <img src="https://img.shields.io/badge/twitter-follow-1DA1F2?style=for-the-badge&logo=twitter"  alt="Twitter" />
     </a>
     <a target="_blank" href="https://linkedin.com/in/china-redman-dev">
-        <img src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1617737453~hmac=7356228e5a0e42496bff97b1fae3a3af" width="39px'" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/linkedin-connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
     </a>
 <p>
 
@@ -66,7 +68,6 @@
             </a>
         </td>
     </tr>
-            
 </table>
 
 ## Languages and Tools:
