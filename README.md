@@ -24,9 +24,9 @@
             <p> 
                 <strong> Tech Used: </strong> AirTable and Softr. <br />
                 <strong> Purpose: </strong> This website will be used to distribute newsletters, professional development opportunities, and other resources to BIPOC librarians and library paraprofessionals in Georgia. <br />
-                 <strong> Links: </strong> <a target="_blank" href="https://blackcaucusgla.preview.softr.io/?t=1617197530749">Site</a> <br />
+                 <strong> Links: </strong> <a target="_blank" href="https://blackcaucusgla.softr.io/">Site</a> <br />
             </p>
-            <a target="_blank" href="https://blackcaucusgla.preview.softr.io/?t=1617197530749">
+            <a target="_blank" href="https://blackcaucusgla.softr.io/">
                 <img src="images/glabcwebsite.jpg" width="75%" alt="screenshot of BCGLA homepage"/>
             </a>
         </td>
