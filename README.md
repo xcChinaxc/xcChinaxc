@@ -27,7 +27,7 @@
                  <strong> Links: </strong> <a target="_blank" href="https://blackcaucusgla.softr.io/">Site</a> <br />
             </p>
             <a target="_blank" href="https://blackcaucusgla.softr.io/">
-                <img src="images/glabcwebsite.jpg" width="75%" alt="screenshot of BCGLA homepage"/>
+                <img src="images/bcgla_home.jpeg" width="75%" alt="screenshot of BCGLA homepage"/>
             </a>
         </td>
         <td width="50%">
