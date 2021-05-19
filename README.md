@@ -31,6 +31,20 @@
             </a>
         </td>
         <td width="50%">
+            <h3>T.7.Q.A.R.</h3>
+            <p> 
+                <strong> Tech Used: </strong> HTML, CSS, JavaScript, Embedded JavaScript, Express, MongoDB, Mongoose, Passport, Sessions, and Morgan.  <br />
+                <strong> Purpose: </strong> T.7.Q.A.R is a social media clone that allows users to sign into their account to upload images that can be liked by other users. T.7.Q.A.R stands for Team 7 Queen Anne's Revenge - latter half being based off of Blackbeards ship name. <br />
+                <strong> Links: </strong>  <a target="_blank" href="https://github.com/xcChinaxc/T.7.Q.A.R">Repo</a> //
+                <a target="_blank" href="https://t7qar.herokuapp.com">Demo Site</a> <br />
+            </p>
+            <a target="_blank" href="https://t7qar.herokuapp.com">
+                <img src="images/t7qar.jpg" width="75%" alt="Screenshot of T.7.Q.A.R. feed"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+         <td width="50%">
             <h3>To Do Application</h3>
             <p> 
                 <strong> Tech Used: </strong> HTML, CSS, JavaScript, Embedded JavaScript, Node.js, Express, and MongoDB. <br />
@@ -40,19 +54,6 @@
             </p>
             <a target="_blank" href="https://cr-to-do-app.herokuapp.com/">
                 <img src="images/todoapp.jpg" width="75%" alt="screenshot of the to-do app with random non-important tasks listed"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%">
-            <h3>StoryBooks App</h3>
-            <p> 
-                <strong> Tech Used: </strong> HTML, CSS, JavaScript, Express, MongoDB, Mongoose, Passport, Google OAuth, Sessions, and Handlebars. <br />
-                <strong> Purpose: </strong> StoryBooks is a web application that users can use to create public and private stories. <br />
-                <strong> Links: </strong>  <a target="_blank" href="https://github.com/xcChinaxc/storybooks">Repo</a>
-            </p>
-            <a target="_blank" href="https://github.com/xcChinaxc/storybooks">
-                <img src="images/storybooks.jpg" width="75%" alt="Screenshot of Storybooks homepage"/>
             </a>
         </td>
          <td width="50%">
