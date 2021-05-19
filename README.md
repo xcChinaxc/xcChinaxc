@@ -60,7 +60,7 @@
             <h3>Lokuri Website</h3>
             <p> 
                 <strong> Tech Used: </strong> HTML, CSS Grid, CSS Animation, and Flexbox. <br />
-                <strong> Purpose: </strong> Lorkui is a responsive website for "software" that will be used to deploy web applications of all kinds. <br />
+                <strong> Purpose: </strong> Lorkui is a responsive website for fictional software that will be used to deploy web applications of all kinds. <br />
                 <strong> Links: </strong>  <a target="_blank" href="https://github.com/xcChinaxc/lokuri-cr-responsive-website">Repo</a> // 
                 <a target="_blank" href="https://focused-heisenberg-9d8dca.netlify.app/">Demo Site</a> <br />
             </p>
