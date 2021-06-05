@@ -37,7 +37,7 @@
                 <a target="_blank" href="https://thestalkerstate.org/">Site</a> <br />
             </p>
             <a target="_blank" href="https://thestalkerstate.org/">
-                <img src="images/t7qar.jpg" width="75%" alt="Screenshot of Stalker State homepage. Robo-cop with a camera as a head looking at the Enter button"/>
+                <img src="images/stalkerstate.jpg" width="75%" alt="Screenshot of Stalker State homepage. Robo-cop with a camera as a head looking at the Enter button"/>
             </a>
         </td>
     </tr>
