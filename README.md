@@ -1,5 +1,5 @@
 <a target="_blank" href ="http://www.chinaredman.com/">
-    <img src="images/header-engineer-mathematician.png">
+    <img src="images/cr_socials_header.png">
 </a>
 
 
