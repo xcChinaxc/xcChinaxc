@@ -6,13 +6,16 @@
 ## Connect with me
 <p align="center">
     <a target="_blank" href="http://www.chinaredman.com/">
-        <img src="https://img.shields.io/badge/portfolio-view-90ee90?style=for-the-badge" alt="Portfolio Site" />
-    </a>
-    <a target="_blank" href="https://twitter.com/xcChinaxc">
-        <img src="https://img.shields.io/badge/twitter-follow-1DA1F2?style=for-the-badge&logo=twitter"  alt="Twitter" />
+        <img src="https://img.shields.io/badge/portfolio-view-90ee90?style=for-the-badge" alt="Personal Website" />
     </a>
     <a target="_blank" href="https://linkedin.com/in/china-redman-dev">
         <img src="https://img.shields.io/badge/linkedin-connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    </a>
+    <a target="_blank" href="https://angel.co/u/china-redman">
+        <img src="https://img.shields.io/badge/angellist-recruit-0A66C2?style=for-the-badge&logo=angellist" alt="Angellist"/>
+    </a>
+    <a target="_blank" href="https://twitter.com/xcChinaxc">
+        <img src="https://img.shields.io/badge/twitter-follow-1DA1F2?style=for-the-badge&logo=twitter"  alt="Twitter" />
     </a>
 <p>
 
@@ -26,7 +29,7 @@
                  <strong> Links: </strong> <a target="_blank" href="https://blackcaucusgla.softr.io/">Site</a> <br />
             </p>
             <a target="_blank" href="https://blackcaucusgla.softr.io/">
-                <img src="images/bcgla_home.jpeg" width="75%" alt="screenshot of BCGLA homepage"/>
+                <img src="images/bcgla_home.jpeg" width="75%" alt="Black Caucus GLA homepage. Cartoonish woman-like figure reading on three large books with the Black Caucus Interest Group in large black font on the right side"/>
             </a>
         </td>
         <td width="50%">
@@ -54,14 +57,14 @@
             </a>
         </td> 
          <td width="50%">
-            <h3>To Do Application</h3>
+            <h3>Character Keeper</h3>
             <p> 
-                <strong> Purpose: </strong> Use this application to create, mark complete, and delete to-do items. <br />
-                <strong> Links: </strong>   <a target="_blank" href="https://github.com/xcChinaxc/to-do-app">Repo</a> // 
-                <a target="_blank" href="https://cr-to-do-app.herokuapp.com/">Demo Site</a> <br />
+                <strong> Purpose: </strong> Character Keeper is a web application that users can use to track character notes for MMOs, table-top games, and more.  <br />
+                <strong> Links: </strong>   <a target="_blank" href="https://github.com/xcChinaxc/character-keeper">Repo</a> // 
+                <a target="_blank" href="https://cr-character-keeper.herokuapp.com/">Site</a> <br />
             </p>
-            <a target="_blank" href="https://cr-to-do-app.herokuapp.com/">
-                <img src="images/todoapp.jpg" width="75%" alt="screenshot of the to-do app with random non-important tasks listed"/>
+            <a target="_blank" href="https://cr-character-keeper.herokuapp.com/">
+                <img src="images/characterkeeper.jpg" width="75%" alt="Character Keeper hompage. Image of an open book with symbols coming out and the words Keep track of your characters in large bold font on the left hand side."/>
             </a>
         </td>
     </tr>
