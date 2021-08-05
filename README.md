@@ -52,7 +52,7 @@
             </a>
         </td> 
          <td width="50%">
-            <h3>Amplifying Gaming Sessions with Character Keeper/h3>
+            <h3>Amplifying Gaming Sessions</h3>
             <p> 
                 Full-stack application to track character notes for MMOs, table-top games, and more. <br />
                 <strong>View: </strong><a href="https://chinaredman.com/charkeep.html">more details</a>, <a href="https://github.com/xcChinaxc/character-keeper">repo</a>, and <a href="https://cr-character-keeper.herokuapp.com/">site</a>.
