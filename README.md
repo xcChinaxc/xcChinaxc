@@ -20,45 +20,42 @@
 <table>
     <tr>
         <td width="50%">
-            <h3>Georgia Library Associations' Black Caucus Interest Group Website</h3>
+            <h3>Resource Sharing with GLA's Black Caucus Interest Group</h3>
             <p> 
-                <strong> Purpose: </strong> This website will be used to distribute newsletters, professional development opportunities, and other resources to BIPOC librarians and library paraprofessionals in Georgia. <br />
-                 <strong> Links: </strong> <a target="_blank" href="https://blackcaucusgla.softr.io/">Site</a> <br />
+                A responsive website for distributing resources to librarians and library paraprofessionals. <br />
+                 <strong> View: </strong> <a href="https://chinaredman.com/bcgla.html">more details</a> and <a target="_blank" href="https://blackcaucusgla.softr.io/">site</a>.
             </p>
             <a target="_blank" href="https://blackcaucusgla.softr.io/">
-                <img src="images/bcgla_home.jpeg" width="75%" alt="Black Caucus GLA homepage. Cartoonish woman-like figure reading on three large books with the Black Caucus Interest Group in large black font on the right side"/>
+                <img src="images/bcgla_home.jpeg" width="75%" alt="Homepage Image. Cartoonish image of a woman reading on three large books to the left. Black Caucus Interest Group in large black font on the right."/>
             </a>
         </td>
         <td width="50%">
-            <h3>The Stalker State Website</h3>
+            <h3>Curating a Digital Experience</h3>
             <p> 
-                <strong> Purpose: </strong> This website is being used to inform others about the stalker state. The Stalker State is the information gathering, storing, and sharing environment we are all immersed in. <br />
-                <strong> Links: </strong>  <a target="_blank" href="https://github.com/xcChinaxc/slsc-splash/tree/main">Repo</a> //
-                <a target="_blank" href="https://thestalkerstate.org/">Site</a> <br />
+                Digital experience to aid the <a href="https://stoplapdspying.org/wp-content/uploads/2018/05/Before-the-Bullet-Hits-the-Body-May-8-2018.pdf">Before the Bullet Hits the Body</a> report.<br />
+                <strong>View: </strong><a href="https://github.com/xcChinaxc/slsc-splash/tree/main">repo</a> and <a href="https://thestalkerstate.org/">site</a>.
             </p>
             <a target="_blank" href="https://thestalkerstate.org/">
-                <img src="images/stalkerstate.jpg" width="75%" alt="Screenshot of Stalker State homepage. Robo-cop with a camera as a head looking at the Enter button"/>
+                <img src="images/stalkerstate.jpg" width="75%" alt="Stalker State homepage. Robo-cop with a camera as a head looking at the Enter button."/>
             </a>
         </td>
     </tr>
     <tr>
         <td width="50%">
-            <h3>T.7.Q.A.R. - Team 7 Queen Anne's Revenge</h3>
+            <h3>MVP Building with #100Devs</h3>
             <p>
-                <strong> Purpose: </strong> T.7.Q.A.R is a social media clone that allows users to sign into their account to upload images that can be liked by other users. T.7.Q.A.R stands for Team 7 Queen Anne's Revenge - latter half being based off of Blackbeards ship name. <br />
-                <strong> Links: </strong>  <a target="_blank" href="https://github.com/xcChinaxc/T.7.Q.A.R">Repo</a> //
-                <a target="_blank" href="https://t7qar.herokuapp.com">Demo Site</a> <br />
+                T.7.Q.A.R stands for Team 7 Queen Anne's Revenge - latter half being based off of Blackbeards ship name. <br />
+                <strong> View: </strong>  <a target="_blank" href="https://github.com/xcChinaxc/T.7.Q.A.R">repo</a> and <a target="_blank" href="https://t7qar.herokuapp.com">demo site</a>.
             </p>
             <a target="_blank" href="https://t7qar.herokuapp.com">
-                <img src="images/t7qar.jpg" width="75%" alt="social media post with picute with a kitten waving hello. The caption of the post reads, 'hello friends. hope today has been well! ' "/>
+                <img src="images/t7qar.jpg" width="75%" alt="social media post with picute with a kitten waving hello.' "/>
             </a>
         </td> 
          <td width="50%">
             <h3>Character Keeper</h3>
             <p> 
-                <strong> Purpose: </strong> Character Keeper is a web application that users can use to track character notes for MMOs, table-top games, and more.  <br />
-                <strong> Links: </strong>   <a target="_blank" href="https://github.com/xcChinaxc/character-keeper">Repo</a> // 
-                <a target="_blank" href="https://cr-character-keeper.herokuapp.com/">Site</a> <br />
+                Full-stack application to track character notes for MMOs, table-top games, and more. <br />
+                <strong>View: </strong><a href="https://chinaredman.com/charkeep.html">more details</a>, <a href="https://github.com/xcChinaxc/character-keeper">repo</a>, and <a href="https://cr-character-keeper.herokuapp.com/">site</a>.
             </p>
             <a target="_blank" href="https://cr-character-keeper.herokuapp.com/">
                 <img src="images/characterkeeper.jpg" width="75%" alt="Character Keeper hompage. Image of an open book with symbols coming out and the words Keep track of your characters in large bold font on the left hand side."/>
