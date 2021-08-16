@@ -44,7 +44,7 @@
         <td width="50%">
             <h3>MVP Building with #100Devs</h3>
             <p>
-                T.7.Q.A.R stands for Team 7 Queen Anne's Revenge - latter half being based off of Blackbeards ship name. <br />
+                Allows users to sign in to their account, upload and favorite images, and post comments. <br />
                 <strong> View: </strong>  <a target="_blank" href="https://github.com/xcChinaxc/T.7.Q.A.R">repo</a> and <a target="_blank" href="https://t7qar.herokuapp.com">demo site</a>.
             </p>
             <a target="_blank" href="https://t7qar.herokuapp.com">
