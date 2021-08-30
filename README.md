@@ -23,7 +23,8 @@
             <h3>Resource Sharing with GLA's Black Caucus Interest Group</h3>
             <p> 
                 A responsive website for distributing resources to librarians and library paraprofessionals. <br />
-                 <strong> View: </strong> <a href="https://chinaredman.com/bcgla.html">more details</a> and <a target="_blank" href="https://blackcaucusgla.softr.io/">site</a>.
+                <strong> Tech Used: </strong> AirTable and Softr. <br />
+                <strong> View: </strong> <a href="https://chinaredman.com/bcgla.html">more details</a> and <a target="_blank" href="https://blackcaucusgla.softr.io/">site</a>.
             </p>
             <a target="_blank" href="https://blackcaucusgla.softr.io/">
                 <img src="images/bcgla_home.jpeg" width="75%" alt="Homepage Image. Cartoonish image of a woman reading on three large books to the left. Black Caucus Interest Group in large black font on the right."/>
@@ -33,6 +34,7 @@
             <h3>Curating a Digital Experience</h3>
             <p> 
                 Digital experience to aid the <a href="https://stoplapdspying.org/wp-content/uploads/2018/05/Before-the-Bullet-Hits-the-Body-May-8-2018.pdf">Before the Bullet Hits the Body</a> report.<br />
+                <strong> Tech Used: </strong> WordPress, PHP, and JavaScript. <br />
                 <strong>View: </strong><a href="https://github.com/xcChinaxc/slsc-splash/tree/main">repo</a> and <a href="https://thestalkerstate.org/">site</a>.
             </p>
             <a target="_blank" href="https://thestalkerstate.org/">
@@ -45,6 +47,7 @@
             <h3>MVP Building with #100Devs</h3>
             <p>
                 Allows users to sign in to their account, upload and favorite images, and post comments. <br />
+                <strong> Tech Used: </strong> JavaScript, EJS, Express, and Mongoose. <br />
                 <strong> View: </strong>  <a target="_blank" href="https://github.com/xcChinaxc/T.7.Q.A.R">repo</a> and <a target="_blank" href="https://t7qar.herokuapp.com">demo site</a>.
             </p>
             <a target="_blank" href="https://t7qar.herokuapp.com">
@@ -55,6 +58,7 @@
             <h3>Amplifying Gaming Sessions</h3>
             <p> 
                 Full-stack application to track character notes for MMOs, table-top games, and more. <br />
+                <strong> Tech Used: </strong> JavaScript, Bootstrap, Cloudinary, and Heroku. <br />
                 <strong>View: </strong><a href="https://chinaredman.com/charkeep.html">more details</a>, <a href="https://github.com/xcChinaxc/character-keeper">repo</a>, and <a href="https://cr-character-keeper.herokuapp.com/">site</a>.
             </p>
             <a target="_blank" href="https://cr-character-keeper.herokuapp.com/">
