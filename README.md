@@ -11,6 +11,9 @@
     <a target="_blank" href="https://linkedin.com/in/china-redman-dev">
         <img src="https://img.shields.io/badge/linkedin-connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
     </a>
+    <a target="_blank" href="https://angel.co/u/china-redman-dev">
+        <img src="https://img.shields.io/badge/angellist-view-0A66C2?style=for-the-badge&logo=angellist" alt="Angellist"/>
+    </a>
     <a target="_blank" href="https://twitter.com/xcChinaxc">
         <img src="https://img.shields.io/badge/twitter-follow-1DA1F2?style=for-the-badge&logo=twitter"  alt="Twitter" />
     </a>
@@ -44,7 +47,7 @@
     </tr>
     <tr>
         <td width="50%">
-            <h3>MVP Building with #100Devs</h3>
+            <h3>MVP Building with 100Devs</h3>
             <p>
                 Allows users to sign in to their account, upload and favorite images, and post comments. <br />
                 <strong> Tech Used: </strong> JavaScript, EJS, Express, and Mongoose. <br />
