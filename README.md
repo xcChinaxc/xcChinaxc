@@ -1,8 +1,3 @@
-<a target="_blank" href ="http://www.chinaredman.com/">
-    <img src="images/cr_socials_header.png">
-</a>
-
-
 ## Connect with me
 <p align="center">
     <a target="_blank" href="http://www.chinaredman.com/">
@@ -14,63 +9,9 @@
     <a target="_blank" href="https://angel.co/u/china-redman-dev">
         <img src="https://img.shields.io/badge/angellist-view-0A66C2?style=for-the-badge&logo=angellist" alt="Angellist"/>
     </a>
-    <a target="_blank" href="https://twitter.com/xcChinaxc">
-        <img src="https://img.shields.io/badge/twitter-follow-1DA1F2?style=for-the-badge&logo=twitter"  alt="Twitter" />
-    </a>
 <p>
-
-## Projects
-<table>
-    <tr>
-        <td width="50%">
-            <h3>Resource Sharing with GLA's Black Caucus Interest Group</h3>
-            <p> 
-                A responsive website for distributing resources to librarians and library paraprofessionals. <br />
-                <strong> Tech Used: </strong> AirTable and Softr. <br />
-                <strong> View: </strong> <a href="https://chinaredman.com/bcgla.html">more details</a> and <a target="_blank" href="https://blackcaucusgla.softr.io/">site</a>.
-            </p>
-            <a target="_blank" href="https://blackcaucusgla.softr.io/">
-                <img src="images/bcgla_home.jpeg" width="75%" alt="Homepage Image. Cartoonish image of a woman reading on three large books to the left. Black Caucus Interest Group in large black font on the right."/>
-            </a>
-        </td>
-        <td width="50%">
-            <h3>Curating a Digital Experience</h3>
-            <p> 
-                Digital experience to aid the <a href="https://stoplapdspying.org/wp-content/uploads/2018/05/Before-the-Bullet-Hits-the-Body-May-8-2018.pdf">Before the Bullet Hits the Body</a> report.<br />
-                <strong> Tech Used: </strong> WordPress, PHP, and JavaScript. <br />
-                <strong>View: </strong><a href="https://github.com/xcChinaxc/slsc-splash/tree/main">repo</a> and <a href="https://thestalkerstate.org/">site</a>.
-            </p>
-            <a target="_blank" href="https://thestalkerstate.org/">
-                <img src="images/stalkerstate.jpg" width="75%" alt="Stalker State homepage. Robo-cop with a camera as a head looking at the Enter button."/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%">
-            <h3>MVP Building with 100Devs</h3>
-            <p>
-                Allows users to sign in to their account, upload and favorite images, and post comments. <br />
-                <strong> Tech Used: </strong> JavaScript, EJS, Express, and Mongoose. <br />
-                <strong> View: </strong>  <a target="_blank" href="https://github.com/xcChinaxc/T.7.Q.A.R">repo</a> and <a target="_blank" href="https://t7qar.herokuapp.com">demo site</a>.
-            </p>
-            <a target="_blank" href="https://t7qar.herokuapp.com">
-                <img src="images/t7qar.jpg" width="75%" alt="social media post with picute with a kitten waving hello.' "/>
-            </a>
-        </td> 
-         <td width="50%">
-            <h3>Amplifying Gaming Sessions</h3>
-            <p> 
-                Full-stack application to track character notes for MMOs, table-top games, and more. <br />
-                <strong> Tech Used: </strong> JavaScript, Bootstrap, Cloudinary, and Heroku. <br />
-                <strong>View: </strong><a href="https://chinaredman.com/charkeep.html">more details</a>, <a href="https://github.com/xcChinaxc/character-keeper">repo</a>, and <a href="https://cr-character-keeper.herokuapp.com/">site</a>.
-            </p>
-            <a target="_blank" href="https://cr-character-keeper.herokuapp.com/">
-                <img src="images/characterkeeper.jpg" width="75%" alt="Character Keeper hompage. Image of an open book with symbols coming out and the words Keep track of your characters in large bold font on the left hand side."/>
-            </a>
-        </td>
-    </tr>
-</table>
-
+    
+    
 ## Languages and Tools:
 <p align="left">
     <a href="https://expressjs.com" target="_blank">
@@ -96,3 +37,51 @@
     </a> 
 </p>
 
+
+## Projects
+<table>
+    <tr>
+        <td width="50%">
+            <h3>Resource Sharing with GLA's Black Caucus Interest Group</h3>
+            <p> 
+                A responsive website for distributing resources to librarians and library paraprofessionals. <br />
+                <strong> Tech Used: </strong> AirTable and Softr. <a target="_blank" href="https://blackcaucusgla.softr.io/">View website</a>.
+            </p>
+            <a target="_blank" href="https://blackcaucusgla.softr.io/">
+                <img src="images/bcgla_home.jpeg" width="75%" alt="Screenshot of the Black Caucus GLA homepage"/>
+            </a>
+        </td>
+        <td width="50%">
+            <h3>Curating a Digital Experience</h3>
+            <p> 
+                Digital experience to aid the <a href="https://stoplapdspying.org/wp-content/uploads/2018/05/Before-the-Bullet-Hits-the-Body-May-8-2018.pdf">Before the Bullet Hits the Body</a> report.<br />
+                <strong> Tech Used: </strong> WordPress, PHP, and JavaScript. <a href="https://thestalkerstate.org/">View website</a>.
+            </p>
+            <a target="_blank" href="https://thestalkerstate.org/">
+                <img src="images/stalkerstate.jpg" width="75%" alt="Image of the Stalker State homepage. Robo-cop with a camera as a head looking at the Enter button."/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <h3>MVP Building with 100Devs</h3>
+            <p>
+                Allows users to sign in to their account, upload and favorite images, and post comments. <br />
+                <strong> Tech Used: </strong> JavaScript, EJS, Express, and Mongoose.
+            </p>
+            <a target="_blank" href="https://t7qar.herokuapp.com">
+                <img src="images/t7qar.jpg" width="75%" alt="social media post with picute with a kitten waving hello.' "/>
+            </a>
+        </td> 
+         <td width="50%">
+            <h3>Amplifying Gaming Sessions</h3>
+            <p> 
+                Full-stack application to track character notes for MMOs, table-top games, and more. <br />
+                <strong> Tech Used: </strong> JavaScript, Bootstrap, Cloudinary, and Heroku. <br />
+            </p>
+            <a target="_blank" href="https://cr-character-keeper.herokuapp.com/">
+                <img src="images/characterkeeper.jpg" width="75%" alt="Character Keeper hompage. Image of an open book with symbols coming out and the words Keep track of your characters in large bold font on the left hand side."/>
+            </a>
+        </td>
+    </tr>
+</table>
