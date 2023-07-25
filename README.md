@@ -1,17 +1,12 @@
-## Connect with me
-<p align="center">
-    <a target="_blank" href="http://www.chinaredman.com/">
-        <img src="https://img.shields.io/badge/portfolio-view-90ee90?style=for-the-badge" alt="Personal Website" />
-    </a>
-    <a target="_blank" href="https://linkedin.com/in/china-redman-dev">
-        <img src="https://img.shields.io/badge/linkedin-connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-    </a>
-    <a target="_blank" href="https://angel.co/u/china-redman-dev">
-        <img src="https://img.shields.io/badge/angellist-view-0A66C2?style=for-the-badge&logo=angellist" alt="Angellist"/>
-    </a>
-<p>
-    
-    
+# 👋🏾 Hi, I'm China! 
+
+I’m a full-stack software engineer with 3+ years of hands-on experience building web applications for clients using waterfall and agile methodology. I have an extensive background working in academic libraries; this experience has granted me ample practice explaining concepts into easy-to-understand pieces, communicating effectively within a team, and utilizing creative problem-solving. I levy these talents as a software engineer to bring creative projects to life.
+
+## 🔗 Connect with Me
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chinaredman.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/china-redman-dev/)
+[![twitter](https://img.shields.io/badge/wellfound-1DA1F2?style=for-the-badge&logo=angellist&logoColor=white)](https://wellfound.com/u/china-redman-dev)
+
 ## Languages and Tools:
 <p align="left">
     <a href="https://expressjs.com" target="_blank">
@@ -37,51 +32,9 @@
     </a> 
 </p>
 
-
-## Projects
-<table>
-    <tr>
-        <td width="50%">
-            <h3>Resource Sharing with GLA's Black Caucus Interest Group</h3>
-            <p> 
-                A responsive website for distributing resources to librarians and library paraprofessionals. <br />
-                <strong> Tech Used: </strong> AirTable and Softr. <a target="_blank" href="https://blackcaucusgla.softr.io/">View website</a>.
-            </p>
-            <a target="_blank" href="https://blackcaucusgla.softr.io/">
-                <img src="images/bcgla_home.jpeg" width="75%" alt="Screenshot of the Black Caucus GLA homepage"/>
-            </a>
-        </td>
-        <td width="50%">
-            <h3>Curating a Digital Experience</h3>
-            <p> 
-                Digital experience to aid the <a href="https://stoplapdspying.org/wp-content/uploads/2018/05/Before-the-Bullet-Hits-the-Body-May-8-2018.pdf">Before the Bullet Hits the Body</a> report.<br />
-                <strong> Tech Used: </strong> WordPress, PHP, and JavaScript. <a href="https://thestalkerstate.org/">View website</a>.
-            </p>
-            <a target="_blank" href="https://thestalkerstate.org/">
-                <img src="images/stalkerstate.jpg" width="75%" alt="Image of the Stalker State homepage. Robo-cop with a camera as a head looking at the Enter button."/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%">
-            <h3>MVP Building with 100Devs</h3>
-            <p>
-                Allows users to sign in to their account, upload and favorite images, and post comments. <br />
-                <strong> Tech Used: </strong> JavaScript, EJS, Express, and Mongoose.
-            </p>
-            <a target="_blank" href="https://t7qar.herokuapp.com">
-                <img src="images/t7qar.jpg" width="75%" alt="social media post with picute with a kitten waving hello.' "/>
-            </a>
-        </td> 
-         <td width="50%">
-            <h3>Amplifying Gaming Sessions</h3>
-            <p> 
-                Full-stack application to track character notes for MMOs, table-top games, and more. <br />
-                <strong> Tech Used: </strong> JavaScript, Bootstrap, Cloudinary, and Heroku. <br />
-            </p>
-            <a target="_blank" href="https://cr-character-keeper.herokuapp.com/">
-                <img src="images/characterkeeper.jpg" width="75%" alt="Character Keeper hompage. Image of an open book with symbols coming out and the words Keep track of your characters in large bold font on the left hand side."/>
-            </a>
-        </td>
-    </tr>
-</table>
+## 👀 Currently Working On
+ Project Name | Description | Tech Used | Links |
+| ------ | ----------- | ----- | ----- |
+| Unique-Nics Design & Events | site for an event planner used to increase sales and generate leads | Next.js 13, TypeScript | [Site](https://unique-nics.vercel.app/) & [Repo](https://github.com/xcChinaxc/unique-nics)|
+| Character Keeper | temporarily offline - refactoring & redesigning | Node.js, Express, MongoDB  |  [Repo](https://github.com/xcChinaxc/character-keeper)|
+| Banana Stand | create a budget and track income and monthly expenses | -- | -- |
