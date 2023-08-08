@@ -7,7 +7,7 @@ I’m a full-stack software engineer with 3+ years of hands-on experience buildi
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/china-redman-dev/)
 [![twitter](https://img.shields.io/badge/wellfound-1DA1F2?style=for-the-badge&logo=angellist&logoColor=white)](https://wellfound.com/u/china-redman-dev)
 
-## Languages and Tools:
+## 🛠️ Languages and Tools:
 <p align="left">
     <a href="https://expressjs.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
@@ -33,8 +33,7 @@ I’m a full-stack software engineer with 3+ years of hands-on experience buildi
 </p>
 
 ## 👀 Currently Working On
- Project Name | Description | Tech Used | Links |
-| ------ | ----------- | ----- | ----- |
-| Unique-Nics Design & Events | site for an event planner used to increase sales and generate leads | Next.js 13, TypeScript | [Site](https://unique-nics.vercel.app/) & [Repo](https://github.com/xcChinaxc/unique-nics)|
-| Character Keeper | temporarily offline - refactoring & redesigning | Node.js, Express, MongoDB  |  [Repo](https://github.com/xcChinaxc/character-keeper)|
-| Banana Stand | create a budget and track income and monthly expenses | -- | -- |
+ Project | Description | Links |
+| ------ | ----------- | ----- |
+| Unique-Nics Design & Events | website for an event planner using React and TypeScript to ensure a seamless user experience and efficient content management | [Site](https://unique-nics.vercel.app/) & [Repo](https://github.com/xcChinaxc/unique-nics)|
+| Character Keeper | temporarily offline - refactoring & redesigning |  [Repo](https://github.com/xcChinaxc/character-keeper)|
